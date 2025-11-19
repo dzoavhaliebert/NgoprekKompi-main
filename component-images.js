@@ -79,16 +79,16 @@ const ComponentImages = {
     
     // GPU Images (VGA)
     vga: {
-        'nvidia-rtx-4090': '/images/gpu/RTX 4090.jpg',
+        'nvidia-rtx-4090': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/GPU/RTX%204090.jpg',
         'amd-rx-7900-xtx': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/GPU/RADEON%20RX%207900%20XTX.jpg',
-        'nvidia-rtx-4080-super': '/images/gpu/RTX 4080 SUPER.jpg',
+        'nvidia-rtx-4080-super': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/GPU/RTX%204080%20SUPER.jpg',
         'amd-rx-7900-xt': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/GPU/RADEON%20RX%207900%20XTX.jpg',
-        'nvidia-rtx-4070-ti-super': '/images/gpu/RTX 4070 TI SUPER.jpg',
-        'amd-rx-7800-xt': '/images/gpu/RX 7800 XT.jpg',
-        'nvidia-rtx-4070-super': '/images/gpu/RTX 4070 SUPER.jpg',
-        'amd-rx-7700-xt': '/images/gpu/RX 7700 XT.jpg',
-        'nvidia-rtx-4060-ti': '/images/gpu/RTX 4060 TI.jpg',
-        'amd-rx-7600': '/images/gpu/RX 7600.jpg'
+        'nvidia-rtx-4070-ti-super': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/GPU/RTX%204070%20TI%20SUPER.jpg',
+        'amd-rx-7800-xt': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/GPU/RX%207800%20XT.jpg',
+        'nvidia-rtx-4070-super': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/GPU/RTX%204070%20SUPER.jpg',
+        'amd-rx-7700-xt': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/GPU/RX%207700%20XT.jpg',
+        'nvidia-rtx-4060-ti': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/GPU/RTX%204060%20TI.jpg',
+        'amd-rx-7600': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/GPU/RX%207600.jpg'
     },
     
     // Storage Images (SSD)
