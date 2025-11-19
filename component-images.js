@@ -137,16 +137,16 @@ const ComponentImages = {
     
     // Cooling Images
     cooling: {
-        'noctua-nh-d15': '/images/cool/Noctua-NH-D15.jpg',
-        'deepcool-ak620': '/images/cool/DEEPCOOL AK620.jpg',
-        'thermalright-phantom-spirit-120-se': '/images/cool/TERMALRIGHT.jpg',
-        'bequiet-dark-rock-pro-4': '/images/cool/BE QUIET DARK.jpg',
-        'cooler-master-hyper-212-halo': '/images/cool/COOLER MASTER HYPER 212.jpg',
-        'arctic-liquid-freezer-ii-360': '/images/cool/ARTIC LIQUID.jpg',
-        'lian-li-galahad-ii-trinity-360': '/images/cool/LIAN LI GALAHAD.jpg',
-        'deepcool-ls720-se-360': '/images/cool/DEEPCOOL LS720.jpg',
-        'nzxt-kraken-360': '/images/cool/NZXT KRAKEN.jpg',
-        'corsair-icue-h150i-elite-360': '/images/cool/CORSAIR ICUE H150 ELITE.jpg'
+        'noctua-nh-d15': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/COOL/Noctua-NH-D15.jpg',
+        'deepcool-ak620': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/COOL/DEEPCOOL%20AK620.jpg',
+        'thermalright-phantom-spirit-120-se': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/COOL/TERMALRIGHT.jpg',
+        'bequiet-dark-rock-pro-4': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/COOL/BE%20QUIET%20DARK.jpg',
+        'cooler-master-hyper-212-halo': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/COOL/COOLER%20MASTER%20HYPER%20212.jpg',
+        'arctic-liquid-freezer-ii-360': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/COOL/ARTIC%20LIQUID.jpg',
+        'lian-li-galahad-ii-trinity-360': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/COOL/LIAN%20LI%20GALAHAD.jpg',
+        'deepcool-ls720-se-360': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/COOL/DEEPCOOL%20LS720.jpg',
+        'nzxt-kraken-360': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/COOL/NZXT%20KRAKEN.jpg',
+        'corsair-icue-h150i-elite-360': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/COOL/CORSAIR%20ICUE%20H150%20ELITE.jpg'
     },
     
     // OS Images
