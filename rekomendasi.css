@@ -215,3 +215,196 @@
         font-size: 1.3rem;
     }
 }
+/* ============================================
+   MOBILE OPTIMIZATIONS FOR REKOMENDASI.CSS
+   ============================================ */
+
+/* Tablet */
+@media (max-width: 1024px) {
+    .preset-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.5rem;
+        padding: 0 1.5rem 3rem;
+    }
+    
+    .components-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+    .section-header {
+        padding-top: 6rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    .section-header h2 {
+        font-size: 1.75rem;
+    }
+    
+    .section-header p {
+        font-size: 1rem;
+    }
+
+    .preset-grid {
+        grid-template-columns: 1fr;
+        padding: 0 1rem 2rem;
+        gap: 1.5rem;
+    }
+    
+    .preset-card {
+        padding: 1.5rem;
+    }
+    
+    .preset-image {
+        height: 120px;
+    }
+    
+    .preset-card h3 {
+        font-size: 1.15rem;
+    }
+    
+    .preset-specs p {
+        font-size: 0.85rem;
+    }
+    
+    .preset-price {
+        font-size: 1.25rem;
+    }
+    
+    .btn-preset {
+        padding: 0.875rem;
+        font-size: 0.95rem;
+    }
+
+    .component-guide-section {
+        padding: 3rem 1rem;
+    }
+    
+    .section-title-modern {
+        font-size: 1.75rem;
+    }
+    
+    .section-description {
+        font-size: 1rem;
+    }
+
+    .components-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+    
+    .component-guide-card {
+        padding: 1.5rem;
+    }
+    
+    .component-guide-card h3 {
+        font-size: 1.05rem;
+    }
+    
+    .component-guide-card p {
+        font-size: 0.9rem;
+    }
+}
+
+/* Small Mobile */
+@media (max-width: 480px) {
+    .section-header {
+        padding-top: 5.5rem;
+        margin-bottom: 2rem;
+    }
+
+    .section-header h2 {
+        font-size: 1.5rem;
+    }
+    
+    .section-header p {
+        font-size: 0.95rem;
+    }
+
+    .preset-grid {
+        padding: 0 0.75rem 1.5rem;
+    }
+
+    .preset-card {
+        padding: 1.25rem;
+    }
+    
+    .preset-badge {
+        font-size: 0.7rem;
+        padding: 0.3rem 0.75rem;
+    }
+    
+    .preset-image {
+        height: 100px;
+    }
+    
+    .preset-card h3 {
+        font-size: 1.05rem;
+    }
+    
+    .preset-specs {
+        padding: 0.875rem;
+    }
+    
+    .preset-specs p {
+        font-size: 0.8rem;
+        margin-bottom: 0.5rem;
+    }
+    
+    .preset-price {
+        font-size: 1.125rem;
+        margin: 1.25rem 0;
+    }
+    
+    .btn-preset {
+        padding: 0.8rem;
+        font-size: 0.9rem;
+    }
+
+    .component-guide-section {
+        padding: 2.5rem 0.75rem;
+    }
+    
+    .section-title-modern {
+        font-size: 1.5rem;
+    }
+    
+    .components-grid {
+        gap: 1.25rem;
+    }
+    
+    .component-guide-card {
+        padding: 1.25rem;
+    }
+    
+    .component-icon-large svg {
+        width: 60px;
+        height: 60px;
+    }
+    
+    .component-guide-card h3 {
+        font-size: 1rem;
+    }
+    
+    .component-guide-card p {
+        font-size: 0.875rem;
+    }
+}
+
+/* Extra Small Mobile */
+@media (max-width: 375px) {
+    .section-header h2 {
+        font-size: 1.375rem;
+    }
+    
+    .preset-card h3 {
+        font-size: 1rem;
+    }
+    
+    .preset-price {
+        font-size: 1rem;
+    }
+}

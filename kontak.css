@@ -290,3 +290,259 @@ textarea.form-control {
         font-size: 1.3rem;
     }
 }
+/* ============================================
+   MOBILE OPTIMIZATIONS FOR KONTAK.CSS
+   ============================================ */
+
+/* Tablet */
+@media (max-width: 1024px) {
+    .contact-container {
+        padding: 0 1.5rem 3rem;
+    }
+    
+    .contact-info-section {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+    .contact-container {
+        grid-template-columns: 1fr;
+        padding: 0 1rem 2rem;
+        gap: 2rem;
+    }
+
+    .contact-info-section {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+    
+    .contact-card {
+        padding: 1.5rem;
+    }
+    
+    .contact-icon {
+        width: 50px;
+        height: 50px;
+        margin-bottom: 1.25rem;
+    }
+    
+    .contact-icon svg {
+        width: 28px;
+        height: 28px;
+    }
+    
+    .contact-card h3 {
+        font-size: 1.05rem;
+    }
+    
+    .contact-detail {
+        font-size: 1rem;
+    }
+    
+    .contact-subtext {
+        font-size: 0.85rem;
+    }
+
+    .form-card {
+        padding: 2rem;
+    }
+    
+    .form-card h3 {
+        font-size: 1.3rem;
+    }
+    
+    .form-description {
+        font-size: 0.95rem;
+    }
+    
+    .form-control {
+        padding: 0.75rem;
+        font-size: 0.95rem;
+    }
+    
+    .btn-submit {
+        padding: 0.875rem 1.75rem;
+        font-size: 0.95rem;
+    }
+
+    .social-media-section {
+        padding: 2.5rem 1rem;
+    }
+    
+    .social-media-section h3 {
+        font-size: 1.3rem;
+    }
+
+    .social-links {
+        gap: 1rem;
+    }
+
+    .social-link {
+        width: 50px;
+        height: 50px;
+    }
+    
+    .social-link svg {
+        width: 26px;
+        height: 26px;
+    }
+}
+
+/* Small Mobile */
+@media (max-width: 480px) {
+    .contact-container {
+        padding: 0 0.75rem 1.5rem;
+        gap: 1.5rem;
+    }
+
+    .contact-info-section {
+        gap: 1.25rem;
+    }
+
+    .contact-card {
+        padding: 1.25rem;
+        border-radius: 10px;
+    }
+
+    .contact-icon {
+        width: 45px;
+        height: 45px;
+        margin-bottom: 1rem;
+    }
+    
+    .contact-icon svg {
+        width: 24px;
+        height: 24px;
+    }
+
+    .contact-card h3 {
+        font-size: 1rem;
+        margin-bottom: 0.875rem;
+    }
+
+    .contact-detail {
+        font-size: 0.95rem;
+        margin-bottom: 0.4rem;
+    }
+
+    .contact-subtext {
+        font-size: 0.8rem;
+    }
+
+    .form-card {
+        padding: 1.5rem;
+        border-radius: 10px;
+    }
+
+    .form-card h3 {
+        font-size: 1.2rem;
+        margin-bottom: 0.4rem;
+    }
+
+    .form-description {
+        font-size: 0.9rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .suggestion-form {
+        gap: 1.25rem;
+    }
+
+    .form-group label {
+        font-size: 0.9rem;
+        margin-bottom: 0.4rem;
+    }
+
+    .form-control {
+        padding: 0.7rem;
+        font-size: 0.9rem;
+        border-radius: 6px;
+    }
+
+    textarea.form-control {
+        min-height: 100px;
+    }
+
+    .btn-submit {
+        padding: 0.8rem 1.5rem;
+        font-size: 0.9rem;
+        border-radius: 6px;
+    }
+
+    .form-message {
+        padding: 0.875rem;
+        font-size: 0.85rem;
+        border-radius: 6px;
+    }
+
+    .social-media-section {
+        padding: 2rem 0.75rem;
+    }
+
+    .social-media-section h3 {
+        font-size: 1.2rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .social-links {
+        gap: 0.875rem;
+    }
+
+    .social-link {
+        width: 45px;
+        height: 45px;
+        border-radius: 10px;
+    }
+    
+    .social-link svg {
+        width: 22px;
+        height: 22px;
+    }
+}
+
+/* Extra Small Mobile */
+@media (max-width: 375px) {
+    .contact-card {
+        padding: 1rem;
+    }
+    
+    .contact-icon {
+        width: 40px;
+        height: 40px;
+    }
+    
+    .form-card {
+        padding: 1.25rem;
+    }
+    
+    .form-card h3 {
+        font-size: 1.1rem;
+    }
+    
+    .social-link {
+        width: 40px;
+        height: 40px;
+    }
+}
+
+/* Fix overflow */
+.contact-container,
+.contact-card,
+.form-card,
+.social-media-section {
+    overflow-x: hidden;
+    width: 100%;
+}
+
+.form-control,
+.btn-submit {
+    width: 100%;
+    max-width: 100%;
+}
+
+.contact-detail {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
