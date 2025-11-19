@@ -26,14 +26,14 @@ const ComponentImages = {
         'intel-i3-13100f': '/images/cpu/I3 GEN 13.jpg',
         'amd-ryzen9-7950x3d': '/images/cpu/AMD RYZEN 9 7900X3D.jpg',
         'amd-ryzen9-7900x3d': '/images/cpu/AMD RYZEN 9 7900X3D.jpg',
-        'amd-ryzen9-7950x': '/images/cpu/AMD RYZEN 9 7900.jpg',
-        'amd-ryzen9-7900x': '/images/cpu/AMD RYZEN 9 7900.jpg',
-        'amd-ryzen9-7900': '/images/cpu/AMD RYZEN 9 7900.jpg',
-        'amd-ryzen7-7800x3d': '/images/cpu/AMD RYZEN 7800X3D.jpg',
-        'amd-ryzen7-7700x': '/images/cpu/AMD RYZEN 7700X.jpg',
-        'amd-ryzen7-7700': '/images/cpu/AMD RYZEN 7700X.jpg',
-        'amd-ryzen5-7600x': '/images/cpu/AMD RYZEN 5 7600X.jpg',
-        'amd-ryzen5-7600': '/images/cpu/AMD RYZEN 5 7600X.jpg'
+        'amd-ryzen9-7950x': 'https://github.com/dzoavhaliebert/NgoprekKompi/blob/main/images/CPU/AMD%20RYZEN%209%207900.jpg?raw=true',
+        'amd-ryzen9-7900x': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/CPU/AMD%20RYZEN%209%207900.jpg',
+        'amd-ryzen9-7900': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/CPU/AMD%20RYZEN%209%207900.jpg',
+        'amd-ryzen7-7800x3d': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/CPU/AMD%20RYZEN%207700X.jpg',
+        'amd-ryzen7-7700x': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/CPU/AMD%20RYZEN%207700X.jpg',
+        'amd-ryzen7-7700': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/CPU/AMD%20RYZEN%207700X.jpg',
+        'amd-ryzen5-7600x': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/CPU/AMD%20RYZEN%205%207600X.jpg',
+        'amd-ryzen5-7600': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/CPU/AMD%20RYZEN%205%207600X.jpg'
     },
     
     // Motherboard Images
