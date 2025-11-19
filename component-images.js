@@ -107,23 +107,23 @@ const ComponentImages = {
     
     // PSU Images
     psu: {
-        'fsp-hyper-k-550w': '/images/psu/FSP HYPER K.jpg',
-        'fsp-hyper-k-600w': '/images/psu/FSP HYPER K.jpg',
-        'cooler-master-mwe-bronze-v2-650w': '/images/psu/MWE BRONZE V2.jpg',
-        'cooler-master-mwe-bronze-v2-750w': '/images/psu/MWE BRONZE V2.jpg',
-        'deepcool-pk-d-650w': '/images/psu/DEEPCOOL.jpg',
-        'deepcool-pq-m-750w': '/images/psu/DEEPCOOL.jpg',
-        'seasonic-focus-gm-750w': '/images/psu/FOCUS.jpg',
-        'seasonic-focus-gm-850w': '/images/psu/FOCUS.jpg',
-        'corsair-rm750e-750w': '/images/psu/corsair-rm750e-750w.jpg',
-        'msi-mag-a850gl-pcie5-850w': '/images/psu/A850GL.jpg',
-        'evga-supernova-g6-850w': '/images/psu/EVGA SUPERNOVA 850W.jpg',
-        'evga-supernova-g6-1000w': '/images/psu/EVGA SUPERNOVA 1000W.jpg',
-        'asus-rog-strix-aura-850w': '/images/psu/ROG STRIX 850W.jpg',
-        'asus-rog-strix-aura-1000w': '/images/psu/ROG STRIX 1000W.jpg',
-        'corsair-rm1000x-shift-1000w': '/images/psu/RM1000X.jpg',
-        'seasonic-prime-tx-1200w': '/images/psu/PRIME TX 1200W.jpg',
-        'seasonic-prime-tx-1600w': '/images/psu/PRIME TX 1600W.jpg'
+        'fsp-hyper-k-550w': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/PSU/FSP%20HYPER%20K.jpg',
+        'fsp-hyper-k-600w': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/PSU/HYPER%2080.jpg',
+        'cooler-master-mwe-bronze-v2-650w': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/PSU/MWE%20BRONZE%20V2.jpg',
+        'cooler-master-mwe-bronze-v2-750w': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/PSU/MWE%20BRONZE%20V2.jpg',
+        'deepcool-pk-d-650w': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/PSU/DEEPCOOL.jpg',
+        'deepcool-pq-m-750w': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/PSU/DEEPCOOL.jpg',
+        'seasonic-focus-gm-750w': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/PSU/FOCUS.jpg',
+        'seasonic-focus-gm-850w': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/PSU/FOCUS.jpg',
+        'corsair-rm750e-750w': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/PSU/corsair-rm750e-750w.jpg',
+        'msi-mag-a850gl-pcie5-850w': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/PSU/A850GL.jpg',
+        'evga-supernova-g6-850w': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/PSU/EVGA%20SUPERNOVA%20850W.jpg',
+        'evga-supernova-g6-1000w': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/PSU/EVGA%20SUPERNOVA%201000W.jpg',
+        'asus-rog-strix-aura-850w': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/PSU/RM850X.jpg',
+        'asus-rog-strix-aura-1000w': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/PSU/ROG%20STRIX%201000W.jpg',
+        'corsair-rm1000x-shift-1000w': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/PSU/RM1000X.jpg',
+        'seasonic-prime-tx-1200w': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/PSU/PRIME%20TX%201200W.jpg',
+        'seasonic-prime-tx-1600w': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/PSU/PRIME%20TX%201600W.jpg'
     },
     
     // Case Images
