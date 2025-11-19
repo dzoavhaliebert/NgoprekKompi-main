@@ -80,7 +80,7 @@ const ComponentImages = {
     // GPU Images (VGA)
     vga: {
         'nvidia-rtx-4090': '/images/gpu/RTX 4090.jpg',
-        'amd-rx-7900-xtx': '/images/gpu/RADEON RX 7900 XTX.jpg',
+        'amd-rx-7900-xtx': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/GPU/RADEON%20RX%207900%20XTX.jpg',
         'nvidia-rtx-4080-super': '/images/gpu/RTX 4080 SUPER.jpg',
         'amd-rx-7900-xt': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/GPU/RADEON%20RX%207900%20XTX.jpg',
         'nvidia-rtx-4070-ti-super': '/images/gpu/RTX 4070 TI SUPER.jpg',
