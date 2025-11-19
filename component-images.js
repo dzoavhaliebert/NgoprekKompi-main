@@ -93,16 +93,16 @@ const ComponentImages = {
     
     // Storage Images (SSD)
     storage: {
-        'samsung-990-pro-1tb': '/images/ssd/SAMSUNG 990 PRO.jpg',
-        'wd-black-sn850x-1tb': '/images/ssd/WD BLACK SN850X.jpg',
-        'kingston-fury-renegade-1tb': '/images/ssd/KINGSTON FURY RENEGADE.jpg',
-        'crucial-p5-plus-1tb': '/images/ssd/CRUCIAL P5 PLUS.jpg',
-        'gigabyte-aorus-gen4-7000s-1tb': '/images/ssd/GIGABYTE AORUS GEN4 7000S.jpg',
-        'samsung-970-evo-plus-1tb': '/images/ssd/SAMSUNG 970 EVO.jpg',
-        'kingston-nv2-1tb': '/images/ssd/KINGSTON NV2.jpg',
-        'wd-blue-sn570-1tb': '/images/ssd/WD BLUE SN570.jpg',
-        'crucial-p3-1tb': '/images/ssd/CRUCIAL P3.jpg',
-        'teamgroup-mp34-1tb': '/images/ssd/TEAMGROUP MP34.jpg'
+        'samsung-990-pro-1tb': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/SSD/SAMSUNG%20990%20PRO.jpg',
+        'wd-black-sn850x-1tb': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/SSD/WD%20BLACK%20SN850X.jpg',
+        'kingston-fury-renegade-1tb': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/SSD/KINGSTON%20FURY%20RENEGADE.jpg',
+        'crucial-p5-plus-1tb': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/SSD/CRUCIAL%20P5%20PLUS.jpg',
+        'gigabyte-aorus-gen4-7000s-1tb': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/SSD/GIGABYTE%20AORUS%20GEN4%207000S.jpg',
+        'samsung-970-evo-plus-1tb': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/SSD/SAMSUNG%20970%20EVO.jpg',
+        'kingston-nv2-1tb': 'http://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/SSD/KINGSTON%20NV2.jpg',
+        'wd-blue-sn570-1tb': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/SSD/WD%20BLUE%20SN570.jpg',
+        'crucial-p3-1tb': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/SSD/CRUCIAL%20P3.jpg',
+        'teamgroup-mp34-1tb': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/SSD/TEAMGROUP%20MP34.jpg'
     },
     
     // PSU Images
