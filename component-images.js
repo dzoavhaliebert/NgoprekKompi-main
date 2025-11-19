@@ -83,7 +83,7 @@ const ComponentImages = {
         'amd-rx-7900-xtx': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/GPU/RADEON%20RX%207900%20XTX.jpg',
         'nvidia-rtx-4080-super': '/images/gpu/RTX 4080 SUPER.jpg',
         'amd-rx-7900-xt': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi/refs/heads/main/images/GPU/RADEON%20RX%207900%20XTX.jpg',
-        'nvidia-rtx-4070-ti-super': '/images/gpu/RTX 4070 TI SUPER.jpg',
+        'nvidia-rtx-4070-ti-super': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/GPU/RTX%204070%20TI%20SUPER.jpg',
         'amd-rx-7800-xt': '/images/gpu/RX 7800 XT.jpg',
         'nvidia-rtx-4070-super': '/images/gpu/RTX 4070 SUPER.jpg',
         'amd-rx-7700-xt': '/images/gpu/RX 7700 XT.jpg',
