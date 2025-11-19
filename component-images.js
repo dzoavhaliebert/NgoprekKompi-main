@@ -151,11 +151,11 @@ const ComponentImages = {
     
     // OS Images
     os: {
-        'windows-11-home': '/images/os/WINDOWS 11 HOME.jpg',
-        'windows-11-pro': '/images/os/WINDOWS 11 PRO.jpg',
-        'windows-10-home': '/images/os/WINDOWS 10 HOME.jpg',
-        'windows-10-pro': '/images/os/WINDOWS 10 PRO.jpg',
-        'linux': '/images/os/LINUX.jpg'
+        'windows-11-home': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/OS/WINDOWS%2011%20HOME.jpg',
+        'windows-11-pro': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/OS/WINDOWS%2011%20PRO.jpg',
+        'windows-10-home': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/OS/WINDOWS%2010%20HOME.jpg',
+        'windows-10-pro': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/OS/WINDOWS%2010%20PRO.jpg',
+        'linux': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/OS/LINUX.jpg'
     }
 };
 
