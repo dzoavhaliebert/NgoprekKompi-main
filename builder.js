@@ -1871,13 +1871,19 @@ function loadAutoSavedBuild() {
         if (!autoSaved) return;
         
         const data = JSON.parse(autoSaved);
-        const savedTime = new Date(data.timestamp);
-        const now = new Date();
-        const diffMinutes = (now - savedTime) / 1000 / 60;
+        const diffMinutes = (Date.now() - data.timestamp) / 60000;
         
-        // Only load if saved within last hour
+        // Hanya load jika penyimpanan kurang dari 1 jam
         if (diffMinutes > 60) return;
-        
+
+        // Cek apakah popup sudah pernah muncul di sesi ini
+        const alreadyAsked = sessionStorage.getItem('buildConfirmShown');
+        if (alreadyAsked) return;
+
+        // Tandai agar popup tidak muncul lagi dalam sesi ini
+        sessionStorage.setItem('buildConfirmShown', 'true');
+
+        // Tampilkan confirm
         if (confirm('Build yang belum selesai terdeteksi. Muat build tersebut?')) {
             data.components.forEach(comp => {
                 const select = document.getElementById(comp.type);
@@ -1885,15 +1891,17 @@ function loadAutoSavedBuild() {
                     select.value = comp.value;
                 }
             });
-            
+
             updateTotal();
             runCompatibilityCheck();
             showNotification('✓ Build yang tersimpan otomatis telah dimuat', 'success');
         }
+        
     } catch (error) {
         console.error('Error loading auto-saved build:', error);
     }
 }
+
 
 // ============================================
 // KEYBOARD SHORTCUTS - NEW FEATURE

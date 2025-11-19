@@ -132,7 +132,7 @@ const ComponentImages = {
         'nzxt-h510': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/CASE/NZXT%20H510.jpg',
         'lian-li-lancool-ii-mesh': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/CASE/LIAN%20LI%20LANCOOL%20II%20MESH.jpg',
         'fractal-meshify-c': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/CASE/FRACTAL%20MESHIFY.jpg',
-        'basic': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/CASE/BASIC%20CASE.jpg.jpg'
+        'basic': 'https://raw.githubusercontent.com/dzoavhaliebert/NgoprekKompi-main/refs/heads/main/images/CASE/BASIC%20CASE.jpg'
     },
     
     // Cooling Images
