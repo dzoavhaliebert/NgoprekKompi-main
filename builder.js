@@ -1541,8 +1541,8 @@ function exportBuild(buildId) {
         }
         
         exportText += `\n${'='.repeat(60)}\n`;
-        exportText += `Dihasilkan oleh Bangun PC - Professional Edition\n`;
-        exportText += `www.bangunpc.com\n`;
+        exportText += `Dihasilkan oleh NgoPi - High-end Builder\n`;
+        exportText += `NgoPi.com\n`;
         exportText += `${'='.repeat(60)}\n`;
         
         const blob = new Blob([exportText], { type: 'text/plain;charset=utf-8' });
@@ -1740,8 +1740,8 @@ function printBuildSummary() {
                 </div>
                 
                 <div class="footer">
-                    <p>Dihasilkan oleh Bangun PC - Professional Edition</p>
-                    <p>www.bangunpc.com</p>
+                    <p>Dihasilkan oleh NgoPi - High-end Builder</p>
+                    <p>ngopi.com</p>
                 </div>
                 
                 <div class="no-print" style="margin-top: 30px; text-align: center;">
